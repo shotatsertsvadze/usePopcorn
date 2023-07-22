@@ -3,6 +3,7 @@ import StarRating from "./StarRating";
 import { useKey } from "./useKey";
 import { useLocalStorageState } from "./useLocalStorageState";
 import { useMovies } from "./useMovies";
+import "./index.css";
 
 const average = (arr) =>
   arr.reduce((acc, cur, i, arr) => acc + cur / arr.length, 0);
