@@ -1,7 +1,7 @@
 {
   "name": "usepopcorn",
   "version": "0.1.0",
-  "homepage": "https://shotatsertsvadze.github.io/usepopcorn",
+  "homepage": "http://shotatsertsvadze.github.io/usepopcorn",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
